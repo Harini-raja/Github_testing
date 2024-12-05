@@ -1,0 +1,2 @@
+The term "software engineering" was coined in 1963 by Margaret Hamilton while she was working on the software for the Apollo spacecraft. The term was created in response to the "software crisis" of the 1960s, when software developers struggled to keep up with the rapid advancements in computing power. This led to a number of issues with faulty software. 
+Software engineers can work for companies that specialize in software engineering or other areas of IT, or they can work in-house IT roles for companies that need to develop and maintain their own software systems. 
